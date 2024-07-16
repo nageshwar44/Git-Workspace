@@ -2,3 +2,5 @@ myname: nageshwar chavhan
 myfather name: babausing chavhan
 last name: chavhan
 this is last time i am changing this
+message: nothing to commit i have written
+message2: this is i done for skiping the staging area and directally commit;
